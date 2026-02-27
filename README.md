@@ -1,4 +1,4 @@
-# GitHub Task 1 – Python and NumPy Implementation
+# GitHub Task – Python and NumPy Implementation
 
 ## Project Overview
 This repository demonstrates fundamental Git operations, Python programming, and NumPy-based linear algebra concepts. The project showcases practical implementation of matrix operations, transpose, and eigenvalue computation, which are essential in data science and machine learning workflows.
